@@ -39,11 +39,11 @@ public class EjerciciSwitchmes {
                 case 'A':
                     System.out.println("Abril");
                     break;
-                default:
                 case 'd':
                 case 'D':
                     System.out.println("Diciembre");
                     break;
+                default:
                     System.out.println("Letra no valida");
                     break;
     }
