@@ -40,6 +40,10 @@ public class EjerciciSwitchmes {
                     System.out.println("Abril");
                     break;
                 default:
+                case 'd':
+                case 'D':
+                    System.out.println("Diciembre");
+                    break;
                     System.out.println("Letra no valida");
                     break;
     }
